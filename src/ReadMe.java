@@ -1,4 +1,4 @@
- 
+
 public class ReadMe {
 
     /*
@@ -28,6 +28,8 @@ public class ReadMe {
         Enter the address 2 "Anfield"
 
         Enter the city "Liverpool"
+
+        Choose the random option from the state dropdown
 
         Enter the Zipcode "L4 0TH"
 
